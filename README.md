@@ -1,4 +1,4 @@
-# rtos_watch
+# RTOS Watch
 Implementation of a watch/stopwatch in Prex
 
 Prex is a portable, open source, real-time operating system for embedded systems.
